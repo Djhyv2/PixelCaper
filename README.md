@@ -1,1 +1,1 @@
-The Pixel Caper was created during the 30 hour 2017 MULE Game Jam hosted by the University of Missouri on April 20-22. It was created as a group collaborative by Dustin Hengel and Connor Penrod. It was created using the Unity Engine. It won 1st place at the event.
+The Pixel Caper was created during the 30 hour 2018 MULE Game Jam hosted by the University of Missouri on April 20-22. It was created as a group collaborative by Dustin Hengel and Connor Penrod. It was created using the Unity Engine. It won 1st place at the event.
